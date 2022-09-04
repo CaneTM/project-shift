@@ -12,4 +12,4 @@
   
 * Fighting game
 
-* Make a graphical representation of a text adventure
+* A graphical representation of a text adventure
