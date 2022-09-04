@@ -11,3 +11,5 @@
   * Add NPCs
   
 * Fighting game
+
+* Make a graphical representation of a text adventure
