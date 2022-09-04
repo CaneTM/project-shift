@@ -15,3 +15,5 @@
 * A graphical representation of a text adventure
 
 * Take the RLCraft mod and make it a 2D, top-down RPG
+
+* Robert's idea: https://discord.com/channels/695047903059640380/731674822374850620/833490977124909116
