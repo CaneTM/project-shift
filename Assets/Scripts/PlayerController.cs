@@ -5,8 +5,10 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
 
+    // player speed
     public float moveSpeed;
 
+    // amt of delay between pressing W, A, S, D and movement on screen (0 thru 1)
     private float minMovementThreshold = 0.5f;
 
     // Start is called before the first frame update
