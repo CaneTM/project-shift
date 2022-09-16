@@ -14,6 +14,14 @@ public class PlayerController : MonoBehaviour
         playerAnim = GetComponent<Animator>();
     }
 
+    void AnimatePlayer(float horizontalInput, float verticalInput)
+    {
+        // initialize walking animation (x dir)
+        playerAnim.SetFloat("moveSpeedX", horizontalInput);
+        // initialize walking animation (y dir)
+        playerAnim.SetFloat("moveSpeedY", verticalInput);
+    }
+
     void MovePlayer()
     {
         float horizontalInput = Input.GetAxisRaw("Horizontal");
@@ -35,10 +43,7 @@ public class PlayerController : MonoBehaviour
             transform.Translate(moveY);
         }
 
-        // initialize walking animation (x dir)
-        playerAnim.SetFloat("moveSpeedX", horizontalInput);
-        // initialize walking animation (y dir)
-        playerAnim.SetFloat("moveSpeedY", verticalInput);
+        AnimatePlayer(horizontalInput, verticalInput);
     }
 
     // Update is called once per frame
