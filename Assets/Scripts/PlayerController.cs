@@ -16,9 +16,9 @@ public class PlayerController : MonoBehaviour
 
     void AnimatePlayer(float horizontalInput, float verticalInput)
     {
-        // initialize walking animation (x dir)
+        // perform walking animation (x dir)
         playerAnim.SetFloat("moveSpeedX", horizontalInput);
-        // initialize walking animation (y dir)
+        // perform walking animation (y dir)
         playerAnim.SetFloat("moveSpeedY", verticalInput);
     }
 
