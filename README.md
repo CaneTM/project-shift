@@ -4,5 +4,5 @@ Contributors:
 * Robert Cannuni
 * Ivan Lopez
 * Canaan Matias
-* Akshay Munniyappa
+* Akshay Muniyappa
 * Dev Patel
