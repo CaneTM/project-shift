@@ -1067,6 +1067,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+<<<<<<< HEAD
 --- !u!1 &1026822655
 GameObject:
   m_ObjectHideFlags: 0
@@ -1151,6 +1152,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> 3228414f09b180adb2773a412827731d6692f668
 --- !u!1 &1100235063
 GameObject:
   m_ObjectHideFlags: 0
@@ -1214,6 +1217,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &1155446101
 GameObject:
   m_ObjectHideFlags: 0
@@ -1718,3 +1722,5 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> 3228414f09b180adb2773a412827731d6692f668
