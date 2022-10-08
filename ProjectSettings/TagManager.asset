@@ -47,6 +47,9 @@ TagManager:
   - name: Ground
     uniqueID: 2060527575
     locked: 0
+  - name: LAMP
+    uniqueID: 2944011243
+    locked: 0
   - name: Player
     uniqueID: 3259058693
     locked: 0
