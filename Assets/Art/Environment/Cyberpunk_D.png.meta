@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -115,7 +115,1561 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Cyberpunk_D_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 730
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba930bb2f46d0534081dc02fed75924c
+      internalID: 962361918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 731
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da7395fdb2853746979869d4b3662ea
+      internalID: -1483605034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 727
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccaa8f9db19c244a804945a4ba6efc8
+      internalID: -873152314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 673
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b4394ba5f0e2d4dbfbdba82498b3eb
+      internalID: 461177218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_4
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 717
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c36e04bde165ba4388779c6227f6fa5
+      internalID: -730241526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 627
+        width: 48
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a4d6f7190fc1744b732acf3a32efa1
+      internalID: -1446479026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_6
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 643
+        width: 169
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9acf60e6719ddb47acec7a4c50ad163
+      internalID: 602247126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_7
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 677
+        width: 78
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6e51bdfed051141aba6aa47ecafe75
+      internalID: 451280284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_8
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 687
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e323f1096da6545a81f8d2e29ec1e6
+      internalID: -1744165761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 675
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5124bcdad00d1642889683aa3558a7f
+      internalID: 1110491416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 675
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e727b9b9dc4004487d3c56d3eaa61a
+      internalID: -274935693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 677
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38050833a0e97ef44b425a6f2dbb0db0
+      internalID: 1726677003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_12
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 624
+        width: 37
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaafa0bdc074fb94d849049af96dca15
+      internalID: 338665088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_13
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 628
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f518df9354a5bcb4e834a569910efeb9
+      internalID: -1703810487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 625
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1670b23c2639aca4ba55280ba2bea8c0
+      internalID: 617066722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_15
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 625
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f60f74518fcb04b90e6a7897b29644
+      internalID: -291485815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 625
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c23f64a02508642b5350089dae484b
+      internalID: -219899803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 632
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607c1d5bf9adbd94fa786c559eb01563
+      internalID: -1709713693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_18
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 632
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42db94f4cb29227448d4b3b76c62ef4d
+      internalID: -1119560550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_19
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 581
+        width: 270
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7878db7066217d842b3df0da694f0402
+      internalID: 38721849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_20
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 648
+        width: 48
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ccffc122dfb6347a518405cb3f5cf1
+      internalID: -1157468617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_21
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 629
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0739c9d0cb90f344f885d6aa340f3951
+      internalID: -1119013836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_22
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 434
+        width: 140
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc9c5a3faff8714eaced6ca3be54bde
+      internalID: 1903843573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 582
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7b88a8ebdc7334686462d6865fa9d0
+      internalID: -468136861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_24
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 579
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8935d42a023bc8349b8fac6fa5249725
+      internalID: 5157847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 586
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d86e10221fedc448a08464897594612
+      internalID: 1880734451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_26
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 581
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ad6f37a580a4f4c9a4bc291246288f
+      internalID: -1726107716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_27
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 585
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7c12a961ec94b4b9cf13a6c17376fb
+      internalID: 699448191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_28
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 591
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85460db7def9789488c5ed34f7510fb8
+      internalID: 145326650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87790e2b57067164f82b136b1b43fffc
+      internalID: 1622700927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_30
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 544
+        width: 132
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40243d968bae96441a077687d1839aa1
+      internalID: 988441604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_31
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 542
+        width: 129
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c329e7a22048c5428569f2808b942b6
+      internalID: 186919725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_32
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 531
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd16c41f2e57d84280f0537f7d05acb
+      internalID: -1962929561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_33
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 381
+        width: 16
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fdd70ec6c057b43b5e4ead4e426068
+      internalID: 1004172080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_34
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 336
+        width: 35
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72131e26088d356448fcce82e9781d88
+      internalID: -273433247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_35
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 336
+        width: 118
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179fedd3f8ee84846852fd90829b3912
+      internalID: 586717492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_36
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 432
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6005868492f64c646b3debf6fd5d2278
+      internalID: -850599946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_37
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 436
+        width: 41
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d655f0d873c201643aa47ae40bc9c24c
+      internalID: -1656049935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_38
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 342
+        width: 74
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b44816b6140ac43be6b6db7fea0483
+      internalID: 816800423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_39
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 243
+        width: 23
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297a508bc44d67d4c990319a397eba04
+      internalID: -1243514535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_40
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 243
+        width: 27
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d0751730c2a574cb8562a669c8901b
+      internalID: -1483435382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_41
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 257
+        width: 23
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1826ae18ef7024ea025cb089b4b208
+      internalID: -360765874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_42
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 287
+        width: 186
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f058cb9d5b239646ae4afc0b5aeeb7d
+      internalID: 1377585184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38876498eaebebb499f4440983df032b
+      internalID: -1450820924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_44
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 144
+        width: 110
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcb730c45488a342962568fc07d156e
+      internalID: 1296497851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_45
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 193
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfeefd50593b854478f2d7f5d48c8b5b
+      internalID: -1520189998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_46
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 149
+        width: 113
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9cad8b4707d174587ac4a1d2b9b0ee
+      internalID: -1894548643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_47
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 190
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78a0e4d922f1e44d9c6c410f1b97b2a
+      internalID: -232291242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_48
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 119
+        width: 192
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb109f832d7e6f4c8e77ca069319a6a
+      internalID: -320624725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_49
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 142
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278f81fb3ec1069498600ca5b6109fe0
+      internalID: -91198201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_50
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 142
+        width: 12
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb577bbf470cbd47b2f2404192e41d2
+      internalID: -996127891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_51
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 142
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cd81de379ecf84ebf76dbcaff1457c
+      internalID: -1464127909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_52
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 142
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3855b2473857f764eb47b4e6045ea342
+      internalID: 844890274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_53
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 190
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be9a8768053d66498926ef55e0b43cc
+      internalID: -1163730701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_54
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 142
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef439855c4f69cb4992c0de884e5bedf
+      internalID: -2062713801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_55
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 190
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09fc965fd650754ea0664146547a7d6
+      internalID: 948096624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_56
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 51
+        width: 85
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd75923a8868a3b449afc8ec58447975
+      internalID: -581227978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_57
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 17
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6874f622b699046b72fb3bf9e885fc
+      internalID: -1751967352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_58
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 48
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcbd1578df0e584f9f4619d0899ddd2
+      internalID: 342944829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_59
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 96
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a7397eb3ca2d944a9736a991a2129d
+      internalID: -1551063736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_60
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 99
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4485d656a200a640af13352870cf351
+      internalID: 1543174418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_61
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 97
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32d62b802510234f81a1b230b45cf5c
+      internalID: 951957202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_62
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 14
+        width: 145
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1e829aee4eb6e4997ed3d88a1904c3
+      internalID: -868114596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_63
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 52
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e53234a3555624b8357c98c9bd73a9
+      internalID: 1897407275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_64
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd833b9127d0654a84d6a9d28d52af5
+      internalID: -764394769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecfe96df8895ba4d821a54ca99cbdac
+      internalID: 1993284654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_66
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 4
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b67a1cbd9e49de458a73c556052ee4d
+      internalID: -1855084761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_67
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 589
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2662785be42e44a9062cb20dadcfe5
+      internalID: 216374474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_68
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 240
+        width: 96
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858b2b0a9c22c8f49a3d0eae0415c15b
+      internalID: -1259165052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 275
+        width: 143
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9b227591fc548408f9534bff872ef0
+      internalID: -1382705297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 97
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29954f342569ca4e82e02619301177c
+      internalID: 1992713209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_71
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 240
+        width: 45
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4a311ac60fb4641949d8bc9f717ae1
+      internalID: -1247210329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_72
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2
+        width: 44
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af39b3d6822e60b44afabbbbaa47ac03
+      internalID: 1368252244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_D_73
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1
+        width: 98
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6af434c60bf354688cfe87cf65d12d
+      internalID: 1023208889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +1680,81 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cyberpunk_D_46: -1894548643
+      Cyberpunk_D_16: -219899803
+      Cyberpunk_D_23: -468136861
+      Cyberpunk_D_42: 1377585184
+      Cyberpunk_D_38: 816800423
+      Cyberpunk_D_62: -868114596
+      Cyberpunk_D_55: 948096624
+      Cyberpunk_D_0: 962361918
+      Cyberpunk_D_20: -1157468617
+      Cyberpunk_D_41: -360765874
+      Cyberpunk_D_72: 1992713209
+      Cyberpunk_D_50: -996127891
+      Cyberpunk_D_57: -1751967352
+      Cyberpunk_D_7: 451280284
+      Cyberpunk_D_8: -1744165761
+      Cyberpunk_D_32: -1962929561
+      Cyberpunk_D_44: 1296497851
+      Cyberpunk_D_36: -850599946
+      Cyberpunk_D_29: 1622700927
+      Cyberpunk_D_51: -1464127909
+      Cyberpunk_D_58: 342944829
+      Cyberpunk_D_3: 461177218
+      Cyberpunk_D_13: -1703810487
+      Cyberpunk_D_14: 617066722
+      Cyberpunk_D_19: 38721849
+      Cyberpunk_D_53: -1163730701
+      Cyberpunk_D_73: 1023208889
+      Cyberpunk_D_67: 216374474
+      Cyberpunk_D_56: -581227978
+      Cyberpunk_D_63: 1897407275
+      Cyberpunk_D_71: -1382705297
+      Cyberpunk_D_31: 186919725
+      Cyberpunk_D_47: -232291242
+      Cyberpunk_D_69: -1259165052
+      Cyberpunk_D_66: -1855084761
+      Cyberpunk_D_6: 602247126
+      Cyberpunk_D_15: -291485815
+      Cyberpunk_D_1: -1483605034
+      Cyberpunk_D_18: -1119560550
+      Cyberpunk_D_9: 1110491416
+      Cyberpunk_D_2: -873152314
+      Cyberpunk_D_24: 5157847
+      Cyberpunk_D_28: 145326650
+      Cyberpunk_D_54: -2062713801
+      Cyberpunk_D_35: 586717492
+      Cyberpunk_D_59: -1551063736
+      Cyberpunk_D_43: -1450820924
+      Cyberpunk_D_30: 988441604
+      Cyberpunk_D_39: -1243514535
+      Cyberpunk_D_61: 951957202
+      Cyberpunk_D_27: 699448191
+      Cyberpunk_D_37: -1656049935
+      Cyberpunk_D_68: 1564729903
+      Cyberpunk_D_5: -1446479026
+      Cyberpunk_D_40: -1483435382
+      Cyberpunk_D_4: -730241526
+      Cyberpunk_D_49: -91198201
+      Cyberpunk_D_10: -274935693
+      Cyberpunk_D_26: -1726107716
+      Cyberpunk_D_52: 844890274
+      Cyberpunk_D_33: 1004172080
+      Cyberpunk_D_45: -1520189998
+      Cyberpunk_D_25: 1880734451
+      Cyberpunk_D_34: -273433247
+      Cyberpunk_D_12: 338665088
+      Cyberpunk_D_60: 1543174418
+      Cyberpunk_D_17: -1709713693
+      Cyberpunk_D_48: -320624725
+      Cyberpunk_D_70: -780902787
+      Cyberpunk_D_22: 1903843573
+      Cyberpunk_D_11: 1726677003
+      Cyberpunk_D_21: -1119013836
+      Cyberpunk_D_65: 1993284654
+      Cyberpunk_D_64: -764394769
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6d435f64b16ffd3418711c2839958fe8
+guid: ba0c83d2ced079e41a4ae5fe2bd6d4fe
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,13 +117,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cyberpunk_E_0
+      name: Itch release tileset base 03_0
       rect:
         serializedVersion: 2
-        x: 19
-        y: 173
-        width: 721
-        height: 576
+        x: 16
+        y: 496
+        width: 80
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,167 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1cc88b943c9dcd54bb7f8cb7082fb4e1
-      internalID: -2084333271
+      spriteID: 04e2930655bf3354896f1900777f46f8
+      internalID: 709222018
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cyberpunk_E_1
-      rect:
-        serializedVersion: 2
-        x: 732
-        y: 628
-        width: 28
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dfbde3bff41dcd34bacccdf934c3fe9f
-      internalID: 2064886002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cyberpunk_E_2
-      rect:
-        serializedVersion: 2
-        x: 742
-        y: 581
-        width: 16
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cc9846675d430bf499ad55978828b3f9
-      internalID: -1183518092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cyberpunk_E_3
-      rect:
-        serializedVersion: 2
-        x: 727
-        y: 530
-        width: 40
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 64cebb5c5d764094bb9ede2267fc80d4
-      internalID: -1141986270
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cyberpunk_E_4
-      rect:
-        serializedVersion: 2
-        x: 725
-        y: 481
-        width: 37
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c449abda69628ce49b798fc7d2430ad4
-      internalID: -1586013038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cyberpunk_E_5
-      rect:
-        serializedVersion: 2
-        x: 728
-        y: 434
-        width: 36
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aefda9e3e393bb94b852685529b6822d
-      internalID: 528143721
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cyberpunk_E_6
-      rect:
-        serializedVersion: 2
-        x: 736
-        y: 394
-        width: 24
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4a0ee5ddaa688d04fa0d31bfb458c03a
-      internalID: -1881699458
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cyberpunk_E_7
-      rect:
-        serializedVersion: 2
-        x: 673
-        y: 290
-        width: 93
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4d7725d67ae5f9d42aa54efd760dc049
-      internalID: 864067846
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cyberpunk_E_8
+      name: Itch release tileset base 03_1
       rect:
         serializedVersion: 2
         x: 106
-        y: 132
-        width: 38
-        height: 60
+        y: 464
+        width: 428
+        height: 304
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -299,19 +152,166 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0624419f524041f479ea9c5417f6c103
-      internalID: -115846033
+      spriteID: 1946938aad1c08e44ab2adbc3e32d93b
+      internalID: 891074320
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cyberpunk_E_9
+      name: Itch release tileset base 03_2
       rect:
         serializedVersion: 2
-        x: 243
-        y: 144
-        width: 139
+        x: 16
+        y: 464
+        width: 80
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1f0b1e7f2d7d845b11a57efa796772
+      internalID: 2073509146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 03_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 400
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff18e177ca6efe46878b085f125a16f
+      internalID: 270055123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 03_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 400
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4553a9951bafa5146a3bceb3f2da3037
+      internalID: -1599438652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 03_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 464
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde4bdf9a8aef5c4e97b5edc758d5068
+      internalID: -1070276249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 03_6
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 464
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a54e69e6937cd84cbc67e924cbd79c7
+      internalID: -323756567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 03_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 80
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b202187ee3f6a4699e15437749a1e5
+      internalID: -2080381121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 03_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 400
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886dce36537707a4ba9de77856922d2c
+      internalID: -79230321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 03_9
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 400
+        width: 92
         height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -320,41 +320,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41ef178d3d16d0f44a1ddd1c555c4546
-      internalID: -756157354
+      spriteID: 4850923712e531c43886d2ff67a56733
+      internalID: 1645787676
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cyberpunk_E_10
+      name: Itch release tileset base 03_10
       rect:
         serializedVersion: 2
-        x: 393
-        y: 98
-        width: 40
-        height: 188
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c49620fad2c67594fa3159aad6a00bb4
-      internalID: 663536007
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cyberpunk_E_11
-      rect:
-        serializedVersion: 2
-        x: 638
-        y: 191
+        x: 16
+        y: 400
         width: 32
-        height: 44
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -362,20 +341,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8f3a5ed485d0024eb60fad52382bc3e
-      internalID: 843644115
+      spriteID: e094b4683ee223345918a50e01774055
+      internalID: -380506012
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cyberpunk_E_12
+      name: Itch release tileset base 03_11
       rect:
         serializedVersion: 2
-        x: 681
-        y: 146
-        width: 37
-        height: 91
+        x: 64
+        y: 400
+        width: 4
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -383,20 +362,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 562e19d7982be71429d42e6e6e671da5
-      internalID: -836913356
+      spriteID: 1cce794667164ce45aea2a3424f1cd2e
+      internalID: 1499689552
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cyberpunk_E_13
+      name: Itch release tileset base 03_12
       rect:
         serializedVersion: 2
-        x: 724
-        y: 146
-        width: 41
-        height: 91
+        x: 70
+        y: 400
+        width: 4
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -404,20 +383,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 745cb366b105ed9458cbc078f15aef2a
-      internalID: -2028587938
+      spriteID: 75032006c5aed5741a9443504e155705
+      internalID: 1179929478
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cyberpunk_E_14
+      name: Itch release tileset base 03_13
       rect:
         serializedVersion: 2
-        x: 0
-        y: 144
-        width: 96
-        height: 30
+        x: 72
+        y: 400
+        width: 24
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -425,20 +404,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 464f408bd4dfc0c4391765f9f3ca696f
-      internalID: -961768031
+      spriteID: 4e14f29d49daa5e4788bf60773a490f4
+      internalID: 331951724
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cyberpunk_E_15
+      name: Itch release tileset base 03_14
       rect:
         serializedVersion: 2
-        x: 147
-        y: 124
-        width: 45
-        height: 56
+        x: 106
+        y: 400
+        width: 6
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -446,20 +425,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 60a6672aad941f6468dbc7d12a0aaebb
-      internalID: -2039603784
+      spriteID: 0331dbea1aba91c49bd8d39ec36a1247
+      internalID: 97848168
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cyberpunk_E_16
+      name: Itch release tileset base 03_15
       rect:
         serializedVersion: 2
-        x: 196
-        y: 124
-        width: 44
-        height: 56
+        x: 160
+        y: 400
+        width: 6
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -467,20 +446,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b0a7ea481fc61746baf62e2da5bbc5c
-      internalID: -790572282
+      spriteID: 5a2dacc0ac11e20429247684f6e80fb6
+      internalID: 1555814646
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cyberpunk_E_17
+      name: Itch release tileset base 03_16
       rect:
         serializedVersion: 2
-        x: 528
-        y: 161
-        width: 144
-        height: 13
+        x: 186
+        y: 400
+        width: 6
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -488,20 +467,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9213d37a392a3d47a89cf027223e489
-      internalID: -868726167
+      spriteID: 000ae053935723e41ada508ecfd34595
+      internalID: -1603609080
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cyberpunk_E_18
+      name: Itch release tileset base 03_17
       rect:
         serializedVersion: 2
-        x: 5
-        y: 49
-        width: 17
-        height: 92
+        x: 256
+        y: 400
+        width: 6
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -509,20 +488,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 965fde0179a4c1d40a60ebca6eb63fd8
-      internalID: -548182188
+      spriteID: d5303064f4b8cdb47a941e4ccee8af3d
+      internalID: -1900537879
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cyberpunk_E_19
+      name: Itch release tileset base 03_18
       rect:
         serializedVersion: 2
-        x: 77
-        y: 49
-        width: 17
-        height: 92
+        x: 282
+        y: 400
+        width: 6
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -530,20 +509,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 96ae4939e4ce927429cf5a6edc6ab006
-      internalID: 1221170980
+      spriteID: 803d6fb6efdce904a9fa45a8fba8476d
+      internalID: -403830389
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cyberpunk_E_20
+      name: Itch release tileset base 03_19
       rect:
         serializedVersion: 2
-        x: 244
-        y: 96
-        width: 42
-        height: 44
+        x: 352
+        y: 400
+        width: 6
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -551,20 +530,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61bce4b738bedc3498b6e85c55f51973
-      internalID: 846566757
+      spriteID: ee34db8f6e930a24b9fda12473fba058
+      internalID: -742748136
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cyberpunk_E_21
+      name: Itch release tileset base 03_20
       rect:
         serializedVersion: 2
-        x: 290
-        y: 96
-        width: 42
-        height: 44
+        x: 410
+        y: 400
+        width: 6
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -572,20 +551,335 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52f2f118a02d2eb4b9da9716e11b62fd
-      internalID: -1265942278
+      spriteID: a669bdb22e5081444a19c1439b65aad1
+      internalID: 1817031021
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cyberpunk_E_22
+      name: Itch release tileset base 03_21
       rect:
         serializedVersion: 2
-        x: 353
-        y: 98
+        x: 496
+        y: 400
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c768d23f5e4cd8d46a1fdcc9c75f190e
+      internalID: 1465552875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 03_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b555e6242c9e4704fb6b43657f9495ea
+      internalID: 706510265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 03_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 376
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1bb2e164257324fba788446de1ee99
+      internalID: 19311604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 03_24
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 368
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dad2fd61f7269418822633e5ebdd53
+      internalID: 458766191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 03_25
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 320
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbf4019741f0ee47a5a733ced9e1ecc
+      internalID: 295695294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 03_26
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 304
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbf712cb82c81e46919f4a501b93bda
+      internalID: 605825859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 03_27
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 304
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d59ad04b7ce61940a4bbe0828b85b99
+      internalID: 42862671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 03_28
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 336
+        width: 92
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2316214d597d1e546857fe43b7e10993
+      internalID: 1728830826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 03_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 368
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8010f8af7ba939a49bcad76926179bb0
+      internalID: -1130491648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 03_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 342
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f399f0e27e7fb498adb58069ba361c
+      internalID: 914539795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 03_31
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 342
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea74a52bd0c5fc74b9df80782ed446f6
+      internalID: 652477910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 03_32
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 342
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d1ec502b96dca4da949d009d98bb56
+      internalID: 404953682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 03_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 348
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b9a81ff4e000c4f86a55a0cf5b5902
+      internalID: 508240698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 03_34
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 336
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c2f4caf75508e41a1daf61863e0cd6
+      internalID: 1008834650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 03_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe33e9e873cc524a89b009444f67f9d
+      internalID: 1009962308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 03_36
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 336
         width: 14
-        height: 20
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -593,20 +887,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54902afe5206c474b82ef35217bb6b6b
-      internalID: 1592745762
+      spriteID: 93b2d6f213522be4a8609961ace38325
+      internalID: -1043525700
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cyberpunk_E_23
+      name: Itch release tileset base 03_37
       rect:
         serializedVersion: 2
-        x: 442
-        y: 99
-        width: 33
-        height: 45
+        x: 44
+        y: 336
+        width: 4
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -614,20 +908,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7af5ee480dec3fc4f9181c216396529e
-      internalID: 1357939526
+      spriteID: 1d02f753ce7feb14c938c1f87efe6c23
+      internalID: 165657034
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cyberpunk_E_24
+      name: Itch release tileset base 03_38
       rect:
         serializedVersion: 2
-        x: 482
-        y: 112
-        width: 46
-        height: 30
+        x: 64
+        y: 336
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -635,20 +929,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 59e7d5e7ffea8ef4da464ed8c322f915
-      internalID: -522866749
+      spriteID: 9e46b3d325390f24baba085dbec43ab6
+      internalID: 1964732507
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cyberpunk_E_25
+      name: Itch release tileset base 03_39
       rect:
         serializedVersion: 2
-        x: 544
-        y: 117
-        width: 23
-        height: 27
+        x: 16
+        y: 314
+        width: 8
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -656,20 +950,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f95e45d63893584aaedc58dfc8a0f63
-      internalID: -1721435176
+      spriteID: 157e88942a1b9d2439cde1317a82f987
+      internalID: 667818759
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cyberpunk_E_26
+      name: Itch release tileset base 03_40
       rect:
         serializedVersion: 2
-        x: 580
-        y: 95
-        width: 43
-        height: 48
+        x: 28
+        y: 304
+        width: 20
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -677,20 +971,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed8f31757b4de2045a185b1ac038236c
-      internalID: 1514327604
+      spriteID: 6d733f3bbb71164478b88dee0341c2d0
+      internalID: 162324702
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cyberpunk_E_27
+      name: Itch release tileset base 03_41
       rect:
         serializedVersion: 2
-        x: 630
-        y: 96
-        width: 41
-        height: 48
+        x: 106
+        y: 16
+        width: 428
+        height: 304
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -698,20 +992,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c1a1fe157935a014fb7e92a3d41e4598
-      internalID: -1950534707
+      spriteID: f7b153f83b432b547a703b05ae8c1f23
+      internalID: -922741807
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cyberpunk_E_28
+      name: Itch release tileset base 03_42
       rect:
         serializedVersion: 2
-        x: 682
-        y: 101
-        width: 36
-        height: 35
+        x: 16
+        y: 308
+        width: 4
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -719,20 +1013,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5bf3a75826bb3bb44b601af9374e013b
-      internalID: -1571918764
+      spriteID: 9e2988dd871f18d44ad25a678890f6b2
+      internalID: 496130689
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cyberpunk_E_29
+      name: Itch release tileset base 03_43
       rect:
         serializedVersion: 2
-        x: 724
-        y: 101
-        width: 38
-        height: 35
+        x: 22
+        y: 306
+        width: 8
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -740,197 +1034,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f3c7301feaa09a4ea167468f4c503c7
-      internalID: -861767503
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cyberpunk_E_30
-      rect:
-        serializedVersion: 2
-        x: 97
-        y: 0
-        width: 95
-        height: 94
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 553e0bc6ccd7dfb49b894b035e300349
-      internalID: -211040859
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cyberpunk_E_31
-      rect:
-        serializedVersion: 2
-        x: 197
-        y: 53
-        width: 41
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: db7134f0ec4be5849b023a817053cd98
-      internalID: -1090508883
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cyberpunk_E_32
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 24
-        width: 96
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ababd0751a12a424cb229c5e72ef6d99
-      internalID: -1735631448
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cyberpunk_E_33
-      rect:
-        serializedVersion: 2
-        x: 345
-        y: 50
-        width: 28
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 636aa3f87d09c984fa2233e9e0085d9e
-      internalID: 4339260
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cyberpunk_E_34
-      rect:
-        serializedVersion: 2
-        x: 389
-        y: 0
-        width: 186
-        height: 90
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: abff70a94bf046549a2fbf0a39c892f3
-      internalID: -1259075736
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cyberpunk_E_35
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 3
-        width: 192
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7eb892c7b6a43f540a92deb349156c1d
-      internalID: -1359900828
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cyberpunk_E_36
-      rect:
-        serializedVersion: 2
-        x: 3
-        y: 0
-        width: 93
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5e4279561010836489c23037b547d952
-      internalID: -1637365373
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cyberpunk_E_37
-      rect:
-        serializedVersion: 2
-        x: 207
-        y: 17
-        width: 22
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 259550b17699501449e71add0544f885
-      internalID: -482444791
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cyberpunk_E_38
-      rect:
-        serializedVersion: 2
-        x: 354
-        y: 3
-        width: 11
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1af4fc40d5111fa45b76c609d32a14b6
-      internalID: -436764036
+      spriteID: ec34055f81ca28c488ce75418d3b39d8
+      internalID: -332472994
       vertices: []
       indices: 
       edges: []
@@ -946,45 +1051,50 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Cyberpunk_E_20: 846566757
-      Cyberpunk_E_23: 1357939526
-      Cyberpunk_E_11: 843644115
-      Cyberpunk_E_0: -2084333271
-      Cyberpunk_E_3: -1141986270
-      Cyberpunk_E_17: -868726167
-      Cyberpunk_E_8: -115846033
-      Cyberpunk_E_2: -1183518092
-      Cyberpunk_E_19: 1221170980
-      Cyberpunk_E_10: 663536007
-      Cyberpunk_E_28: -1571918764
-      Cyberpunk_E_24: -522866749
-      Cyberpunk_E_18: -548182188
-      Cyberpunk_E_26: 1514327604
-      Cyberpunk_E_14: -961768031
-      Cyberpunk_E_16: -790572282
-      Cyberpunk_E_36: -1637365373
-      Cyberpunk_E_30: -211040859
-      Cyberpunk_E_37: -482444791
-      Cyberpunk_E_22: 1592745762
-      Cyberpunk_E_33: 4339260
-      Cyberpunk_E_12: -836913356
-      Cyberpunk_E_6: -1881699458
-      Cyberpunk_E_21: -1265942278
-      Cyberpunk_E_29: -861767503
-      Cyberpunk_E_34: -1259075736
-      Cyberpunk_E_38: -436764036
-      Cyberpunk_E_7: 864067846
-      Cyberpunk_E_4: -1586013038
-      Cyberpunk_E_15: -2039603784
-      Cyberpunk_E_27: -1950534707
-      Cyberpunk_E_31: -1090508883
-      Cyberpunk_E_9: -756157354
-      Cyberpunk_E_5: 528143721
-      Cyberpunk_E_13: -2028587938
-      Cyberpunk_E_35: -1359900828
-      Cyberpunk_E_25: -1721435176
-      Cyberpunk_E_32: -1735631448
-      Cyberpunk_E_1: 2064886002
+      Itch release tileset base 03_39: 667818759
+      Itch release tileset base 03_26: 605825859
+      Itch release tileset base 03_32: 404953682
+      Itch release tileset base 03_16: -1603609080
+      Itch release tileset base 03_15: 1555814646
+      Itch release tileset base 03_22: 706510265
+      Itch release tileset base 03_6: -323756567
+      Itch release tileset base 03_27: 42862671
+      Itch release tileset base 03_35: 1009962308
+      Itch release tileset base 03_37: 165657034
+      Itch release tileset base 03_10: -380506012
+      Itch release tileset base 03_34: 1008834650
+      Itch release tileset base 03_31: 652477910
+      Itch release tileset base 03_25: 295695294
+      Itch release tileset base 03_23: 19311604
+      Itch release tileset base 03_4: -1599438652
+      Itch release tileset base 03_29: -1130491648
+      Itch release tileset base 03_9: 1645787676
+      Itch release tileset base 03_38: 1964732507
+      Itch release tileset base 03_1: 891074320
+      Itch release tileset base 03_43: -332472994
+      Itch release tileset base 03_11: 1499689552
+      Itch release tileset base 03_12: 1179929478
+      Itch release tileset base 03_40: 162324702
+      Itch release tileset base 03_5: -1070276249
+      Itch release tileset base 03_0: 709222018
+      Itch release tileset base 03_13: 331951724
+      Itch release tileset base 03_20: 1817031021
+      Itch release tileset base 03_30: 914539795
+      Itch release tileset base 03_7: -2080381121
+      Itch release tileset base 03_41: -922741807
+      Itch release tileset base 03_2: 2073509146
+      Itch release tileset base 03_42: 496130689
+      Itch release tileset base 03_21: 1465552875
+      Itch release tileset base 03_36: -1043525700
+      Itch release tileset base 03_33: 508240698
+      Itch release tileset base 03_3: 270055123
+      Itch release tileset base 03_19: -742748136
+      Itch release tileset base 03_18: -403830389
+      Itch release tileset base 03_8: -79230321
+      Itch release tileset base 03_14: 97848168
+      Itch release tileset base 03_28: 1728830826
+      Itch release tileset base 03_17: -1900537879
+      Itch release tileset base 03_24: 458766191
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
