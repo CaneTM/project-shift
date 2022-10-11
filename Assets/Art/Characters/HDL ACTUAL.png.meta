@@ -1,0 +1,1191 @@
+fileFormatVersion: 2
+guid: 9c075312621e7684791d92440dd49ca4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HDL ACTUAL_0
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 296
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996743ce68879f940b9feb427a17ae0f
+      internalID: 266930380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 296
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6cb65d0a1e9e4489f56b16b41d208f
+      internalID: 2015343887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 292
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945327cbb8735644986d8784ad245a01
+      internalID: 48985913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 292
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31620532d443d34382739fa2f0785a1
+      internalID: 1504686025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 292
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17795ba396df49438f4b87724b2b50f
+      internalID: -1017374703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 294
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723c81b82f317764ebb84d4307c947f9
+      internalID: -1315364417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 296
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f1a68073a1ad54280dfd9ae14da682
+      internalID: -1676352339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 296
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92c0d1938969874eb8c25f9426f2dd3
+      internalID: 1363137464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_8
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 292
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3292759de9eda0e40b9327e82849f438
+      internalID: 1420418739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_9
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 292
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334845caae741864b9e3eadf1c3ecae0
+      internalID: -878779109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_10
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 292
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c57fdce42cb0545a9402a08517e0d9
+      internalID: 2010528039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_11
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 294
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73107869d9944d48b989350af8d87d7
+      internalID: 480146159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_12
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 225
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8186c35a91e99d48af5c6f35326a255
+      internalID: 1269063686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 232
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a4d5cc0d715c0438e2c0f0689a56e1
+      internalID: -544350102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_14
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 234
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b06aad3805721543959bd9e234f9a32
+      internalID: -860849131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_15
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 232
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bba35e14759d7346948240797d55ee6
+      internalID: -540592130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_16
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 230
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada2b10e33f2d6242a72deb76439a419
+      internalID: 2132860293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393f1ce84e1cc3b42b85861335f6c478
+      internalID: -1454798126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_18
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 226
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539e8c779fa141349ad5c420afcc7796
+      internalID: -507740425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_19
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 232
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5093b080e9d679840b1517ec24e17341
+      internalID: -1885306043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 234
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b7713d47d95a14cab21112c19480bb
+      internalID: -972336583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_21
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 232
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfe956f14c4d7f40a9e8a83f935e5e2
+      internalID: 1722745593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_22
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 230
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be18072bbcfce24699fb8a9fa313227
+      internalID: 461687406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_23
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 224
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f90587b869cdb04cbb96e36cf2f75a7
+      internalID: 866839103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_24
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 164
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f86ab8a105983b47ae9bd1959b404da
+      internalID: -1352401470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_25
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 164
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec32d83f9f9d48c41a927e3caf64f361
+      internalID: -745203200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_26
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 166
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de81ccf9990c3c446ba2a3d62cc67212
+      internalID: -356012052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_27
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 166
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30881eab22b73e4181b881f2a6ed126
+      internalID: 1047994666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 164
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75d2ce9fa2d94b42a7d94e48302b827
+      internalID: 807230375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_29
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 162
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72579a639360aa94b95f57356b3a0dd3
+      internalID: -967661317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_30
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 160
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cac2bc5ecc50e45a3f9925e961498e
+      internalID: -1816841993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_31
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 160
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7f874e27566fb4c8dfd624f30aedc4
+      internalID: 315856516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 160
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10820ae0f808b97458dbb04d944f3cdc
+      internalID: -2076474406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_33
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 168
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0a198ff402136498244576eac3f2e8
+      internalID: 1296114164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_34
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 166
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea313534406af544ae44014c53b84de
+      internalID: -1424930568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_35
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 166
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be73aa07d8a21cb40bebd9b3641bd6e5
+      internalID: -386547964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_36
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 100
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d00d494225c61c4faead616b142756d
+      internalID: -759554560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_37
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 100
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f8c2a6726f684409fd33060746e7a3
+      internalID: -1016847214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_38
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 102
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f8fa0fe3f68f34db4117cfa2eda3e2
+      internalID: 16160328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_39
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 102
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd19619ce521b747833d1d7d0312bf1
+      internalID: 399817787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_40
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 100
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5fd0db8450f444e8129c2b26835b6f
+      internalID: -931641444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_41
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 98
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3e45326487abf4a961ecd9c4c2d43a
+      internalID: -707695835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_42
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 96
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da88f40124f4964f93bca741f2a87ca
+      internalID: 612569852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_43
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 96
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c1dda2d9eb1cb4b8f3298790e107c3
+      internalID: -147193781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_44
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 96
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b38231acd230847ba129653f69b6ae
+      internalID: 1621735742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_45
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 104
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdc6848e8a51254580171427d4c4d3b
+      internalID: -1855686098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_46
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 102
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c4046fb22c5c141a01fd32b10b7e7e
+      internalID: 1288294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HDL ACTUAL_47
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 102
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2635e47d2285a3458bee8476828c4e9
+      internalID: 1802885595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HDL ACTUAL_46: 1288294
+      HDL ACTUAL_4: -1017374703
+      HDL ACTUAL_22: 461687406
+      HDL ACTUAL_21: 1722745593
+      HDL ACTUAL_5: -1315364417
+      HDL ACTUAL_37: -1016847214
+      HDL ACTUAL_43: -147193781
+      HDL ACTUAL_29: -967661317
+      HDL ACTUAL_7: 1363137464
+      HDL ACTUAL_27: 1047994666
+      HDL ACTUAL_33: 1296114164
+      HDL ACTUAL_23: 866839103
+      HDL ACTUAL_8: 1420418739
+      HDL ACTUAL_24: -1352401470
+      HDL ACTUAL_45: -1855686098
+      HDL ACTUAL_18: -507740425
+      HDL ACTUAL_9: -878779109
+      HDL ACTUAL_2: 48985913
+      HDL ACTUAL_20: -972336583
+      HDL ACTUAL_35: -386547964
+      HDL ACTUAL_6: -1676352339
+      HDL ACTUAL_16: 2132860293
+      HDL ACTUAL_39: 399817787
+      HDL ACTUAL_38: 16160328
+      HDL ACTUAL_47: 1802885595
+      HDL ACTUAL_0: 266930380
+      HDL ACTUAL_41: -707695835
+      HDL ACTUAL_10: 2010528039
+      HDL ACTUAL_15: -540592130
+      HDL ACTUAL_36: -759554560
+      HDL ACTUAL_11: 480146159
+      HDL ACTUAL_17: -1454798126
+      HDL ACTUAL_19: -1885306043
+      HDL ACTUAL_40: -931641444
+      HDL ACTUAL_30: -1816841993
+      HDL ACTUAL_44: 1621735742
+      HDL ACTUAL_1: 2015343887
+      HDL ACTUAL_13: -544350102
+      HDL ACTUAL_3: 1504686025
+      HDL ACTUAL_14: -860849131
+      HDL ACTUAL_25: -745203200
+      HDL ACTUAL_32: -2076474406
+      HDL ACTUAL_12: 1269063686
+      HDL ACTUAL_28: 807230375
+      HDL ACTUAL_42: 612569852
+      HDL ACTUAL_31: 315856516
+      HDL ACTUAL_26: -356012052
+      HDL ACTUAL_34: -1424930568
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
