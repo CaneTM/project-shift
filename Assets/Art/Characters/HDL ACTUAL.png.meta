@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -70,7 +70,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1160,11 +1160,11 @@ TextureImporter:
       HDL ACTUAL_39: 399817787
       HDL ACTUAL_38: 16160328
       HDL ACTUAL_47: 1802885595
+      HDL ACTUAL_36: -759554560
       HDL ACTUAL_0: 266930380
       HDL ACTUAL_41: -707695835
       HDL ACTUAL_10: 2010528039
       HDL ACTUAL_15: -540592130
-      HDL ACTUAL_36: -759554560
       HDL ACTUAL_11: 480146159
       HDL ACTUAL_17: -1454798126
       HDL ACTUAL_19: -1885306043
