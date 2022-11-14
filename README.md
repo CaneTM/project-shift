@@ -1,4 +1,4 @@
-# The Game That Is Yet To Be Named
+# Project Shift
 
 Contributors:
 * Robert Cannuni
