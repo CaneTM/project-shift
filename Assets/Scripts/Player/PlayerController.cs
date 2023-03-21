@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     public float playerSpeed = 5f;
+    public float distanceToMove = 4f;
 
     private Animator playerAnim;
 
@@ -44,6 +45,13 @@ public class PlayerController : MonoBehaviour
         }
 
         AnimatePlayer(horizontalInput, verticalInput);
+        
+        // check if the Y button was pressed
+        if (Input.GetKeyDown(KeyCode.Y))
+        {
+            Vector3 teleportPosition = transform.position + Vector3.left * distanceToMove;
+            transform.position = teleportPosition;
+        }
     }
 
     // Update is called once per frame

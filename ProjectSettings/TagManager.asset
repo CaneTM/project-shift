@@ -25,9 +25,9 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
+  - Layer 1
+  - Layer 2
+  - Layer 3
   - 
   - 
   - 
@@ -38,18 +38,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Negative
-    uniqueID: 1650175557
-    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Ground
-    uniqueID: 2060527575
+  - name: Layer 1
+    uniqueID: 2425651459
     locked: 0
-  - name: LAMP
-    uniqueID: 2944011243
+  - name: Layer 2
+    uniqueID: 4250941897
     locked: 0
-  - name: Player
-    uniqueID: 3259058693
+  - name: Layer 3
+    uniqueID: 4189426099
     locked: 0
